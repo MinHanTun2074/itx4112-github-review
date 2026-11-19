@@ -16,7 +16,8 @@ campus, depending on whether you need quiet, coffee, or a group table.
 _TODO: List 2–3 quiet places to study alone. (Issue #1)_
 
 ## 2. Cafés Near Campus
-_TODO: List 2–3 cafés good for studying. (Issue #2)_
+- **Corner Café**: quiet in the morning, free Wi-Fi
+- **24-hour coffee shop**: good for late-night exam prep
 
 ## 3. Tips for Group Study
 _TODO: To be written after both sections are merged._
