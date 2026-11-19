@@ -1,4 +1,4 @@
-# GitHub for Group Projects 📘
+# GitHub Review
 
 A short beginner's guide for ITX 4112 students on how to use GitHub
 to work together on a shared project.
